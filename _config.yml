@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # Currently available options are "default", "air"
-title                    : "侯郡任的博客1"
+site_theme               : "default" # Currently available options are "default", "air"
+title                    : "侯郡任的博客"
 title_separator          : "-"
 name                     : &name "侯郡任"
 description              : &description "侯郡任's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -23,8 +23,8 @@ repository               : "houjunren-thu/houjunren-thu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Junren Houafa"
+  avatar           : "我的照片.jpg"
+  name             : "Junren Hou"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Beijing"
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -84,8 +84,8 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
+  # books:
+  #   title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
