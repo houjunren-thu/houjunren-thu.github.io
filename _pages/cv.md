@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+# title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,35 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Department of Engineering Physics, **Tsinghua University**, 2023 - now
+* B.S. in College of Physics, **Sichuan University**, 2019 - 2023
 
-Work experience
+Interests
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Computational Fluid Dynamics**
+* **Lattice Boltzmann Method**
+* **Neutron physics in reactors**
   
+Grants
+======
+* National-level Project of the College Students' Innovation and Entrepreneurship Training Program, 5000 RMB, **Principal Investigator**, 2022
+* National-level Project of the College Students' Innovation and Entrepreneurship Training Program, 5000 RMB, **Principal Investigator**, 2021
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Computational Fluid Dynamics (CFD) Software:** 
+  * ANSYS(Fluent, ICEM, SpaceCliam)
+  * OpenFOAM
+  * NEK5000
+  * Paraview
+  * Tecplot
+* **Neutron physics Software:**
+  * Reactor Monte Carlo code (RMC)
+  * OpenMC
+* **Code language:** Python, C/C++, Matlab
 
 Publications
 ======
@@ -47,7 +44,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -57,8 +54,11 @@ Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+Prizes and Honors
 ======
-* Currently signed in to 43 different slack teams
+* **National Scholarship for Postgraduates of China(2)**, The Ministry of Education of China, 2024/2025
+* **Youth Talent Support Project for Doctoral Student**, China Association for Science and Technology, 2024
+* **Future Scholar Scholarship for Doctoral Students**, Tsinghua University, 2023
+* **Outstanding University Graduate of Sichuan Province**, Sichuan Provincial Department of Education, 2023
