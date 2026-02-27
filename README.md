@@ -1,3 +1,7 @@
+# 我的
+输入**jekyll serve**就可以线下查看了，访问http://localhost:4000/就可以看到效果了。
+
+
 # Academic Pages
 **Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 
